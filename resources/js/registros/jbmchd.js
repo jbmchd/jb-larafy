@@ -1,22 +1,17 @@
-require('jb-v-plugin-global');
+require('@jbmchd-vue/jb-v-plugin-global');
 
-require('jb-v-auth');
-// require('jb-v-menucircular-mensagens');
-// require('jb-v-menucircular-suspenso');
-require('jb-v-menucircular-usuario');
-// require('jb-v-menulateral');
-
-// require('jb-v-filepond');
+require('@jbmchd-vue/jb-v-auth');
+require('@jbmchd-vue/jb-v-menucircular-usuario');
+require('@jbmchd-vue/jb-v-filepond');
 
 
-require('jb-v-dialog');
-require('jb-v-loading');
-require('jb-v-alert');
+require('@jbmchd-vue/jb-v-dialog');
+require('@jbmchd-vue/jb-v-loading');
+require('@jbmchd-vue/jb-v-alert');
 
-require('jb-v-barrasuperior');
-require('jb-v-menubloco');
-require('jb-v-icon');
-require('jb-v-datatable-crud');
-require('jb-v-form');
-require('jb-v-iconevoltar');
+require('@jbmchd-vue/jb-v-barrasuperior');
+require('@jbmchd-vue/jb-v-menubloco');
+require('@jbmchd-vue/jb-v-icon');
+require('@jbmchd-vue/jb-v-datatable-crud');
+require('@jbmchd-vue/jb-v-form');
 

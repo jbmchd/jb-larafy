@@ -31,6 +31,7 @@ Vue.use(Vuetify, {
 /**
  ================= COMPONENTES
  */
+// require('./../../jbmchd/js/components'); //ativar quando for desenvolver os componentes
 require('@/registros/jbmchd');
 require('@/registros/_partes');
 require('@/registros/perfil');

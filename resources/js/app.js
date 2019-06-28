@@ -31,8 +31,8 @@ Vue.use(Vuetify, {
 /**
  ================= COMPONENTES
  */
-// require('@/registros/jbmchd');
 require('@/registros/jbmchd');
+require('@/registros/_partes');
 require('@/registros/perfil');
 require('@/registros/outros');
 

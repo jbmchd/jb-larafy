@@ -1,16 +1,6 @@
 {
     "dependencies": {
-        "@jbmchd-vue/jb-v-alert": "^1.0.0",
-        "@jbmchd-vue/jb-v-auth": "^1.0.0",
-        "@jbmchd-vue/jb-v-barrasuperior": "^1.0.0",
-        "@jbmchd-vue/jb-v-datatable-crud": "^1.0.1",
-        "@jbmchd-vue/jb-v-dialog": "^1.0.0",
-        "@jbmchd-vue/jb-v-filepond": "^1.0.2",
-        "@jbmchd-vue/jb-v-form": "^1.0.1",
-        "@jbmchd-vue/jb-v-icon": "^1.0.0",
-        "@jbmchd-vue/jb-v-loading": "^1.0.0",
-        "@jbmchd-vue/jb-v-menubloco": "^1.0.0",
-        "@jbmchd-vue/jb-v-menucircular-usuario": "^1.0.0",
-        "@jbmchd-vue/jb-v-plugin-global": "^1.0.0"
+        "@jbmchd-vue/jb-vue-filepond": "^1.0.1",
+        "@jbmchd-vue/jb-vuetify-extends": "^1.0.1"
     }
 }
